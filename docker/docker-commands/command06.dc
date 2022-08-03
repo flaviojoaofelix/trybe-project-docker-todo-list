@@ -1,1 +1,1 @@
-docker image pull nginx:1.23.3-alpine
+docker image pull nginx:1.21.3-alpine
