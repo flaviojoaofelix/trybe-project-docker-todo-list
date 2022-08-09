@@ -1,6 +1,8 @@
 # 🚧 README em construção 🚧
-#Trybe
-## Projeto Docker - To Do List
+# Trybe
+# Desenvolvimento Back-end
+## Bloco 19
+## Projeto: Docker - To Do List
 
 <!-- Olá, Tryber!
 
